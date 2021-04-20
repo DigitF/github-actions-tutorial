@@ -1,3 +1,3 @@
 module github.com/padok-team/github-actions-tutorial
 
-go 1.16.3
+go 1.14
