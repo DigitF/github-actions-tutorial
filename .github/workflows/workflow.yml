@@ -1,6 +1,6 @@
 name: main-worklfow
 
-env: {}
+# env: {}
 
 on:
   push:
